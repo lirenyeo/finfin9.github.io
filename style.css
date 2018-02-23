@@ -11,6 +11,7 @@ body {
   flex-direction: column;
   font-size: 1.5em;
   background: #c8d4dc;
+  font-family: 'Open Sans', Arial, sans-serif;
 }
 
 section.intro {
